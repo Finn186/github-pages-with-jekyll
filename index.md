@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my blog"
+title: "My Site"
 ---
-
-I'm glad you are here. I plan to talk about ...
+Hello this is a test website
